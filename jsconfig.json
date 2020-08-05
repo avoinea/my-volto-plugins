@@ -1,6 +1,12 @@
 {
     "compilerOptions": {
         "paths": {
+            "volto-slate-metadata-mentions": [
+                "addons/volto-slate-metadata-mentions/src"
+            ],
+            "volto-widgets-view": [
+                "addons/volto-widgets-view/src"
+            ]
         },
         "baseUrl": "src"
     }
