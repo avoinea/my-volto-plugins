@@ -2170,9 +2170,9 @@
     "@types/node" "*"
 
 "@types/lodash@^4.14.149":
-  version "4.14.158"
-  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.158.tgz#b38ea8b6fe799acd076d7a8d7ab71c26ef77f785"
-  integrity sha512-InCEXJNTv/59yO4VSfuvNrZHt7eeNtWQEgnieIA+mIC+MOWM9arOWG2eQ8Vhk6NbOre6/BidiXhkZYeDY9U35w==
+  version "4.14.159"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.159.tgz#61089719dc6fdd9c5cb46efc827f2571d1517065"
+  integrity sha512-gF7A72f7WQN33DpqOWw9geApQPh4M3PxluMtaHxWHXEGSN12/WbcEk/eNSqWNQcQhF66VSZ06vCF94CrHwXJDg==
 
 "@types/minimatch@*":
   version "3.0.3"
@@ -16295,9 +16295,9 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
 
-"volto-slate@github:eea/volto-slate#0.3.7":
+"volto-slate@github:eea/volto-slate#0.3.9":
   version "0.3.6"
-  resolved "https://codeload.github.com/eea/volto-slate/tar.gz/f256192db98e0b60cae333e35ea4e8f4bbfc7246"
+  resolved "https://codeload.github.com/eea/volto-slate/tar.gz/3f1cf8209dd5c64ba43cbd43953daa3dfa9cdc7d"
   dependencies:
     "@types/jest" "^25.2.3"
     classnames "2.2.6"

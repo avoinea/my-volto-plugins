@@ -102,7 +102,7 @@
   },
   "dependencies": {
     "@plone/volto": "github:eea/volto#7.7.0-beta.1",
-    "volto-slate": "github:eea/volto-slate#0.3.7"
+    "volto-slate": "github:eea/volto-slate#0.3.9"
   },
   "devDependencies": {
     "eslint-plugin-prettier": "3.1.3",
