@@ -1,11 +1,13 @@
  {
      "volto-slate-metadata-mentions": {
          "url": "https://github.com/eea/volto-slate-metadata-mentions.git",
+         "package": "@eeacms/volto-slate-metadata-mentions",
          "branch": "develop",
          "path": "src"
      },
      "volto-widgets-view": {
          "url": "https://github.com/eea/volto-widgets-view.git",
+         "package": "@eeacms/volto-widgets-view",
          "branch": "develop",
          "path": "src"
      }

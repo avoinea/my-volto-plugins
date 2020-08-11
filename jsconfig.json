@@ -1,10 +1,10 @@
 {
     "compilerOptions": {
         "paths": {
-            "volto-slate-metadata-mentions": [
+            "@eeacms/volto-slate-metadata-mentions": [
                 "addons/volto-slate-metadata-mentions/src"
             ],
-            "volto-widgets-view": [
+            "@eeacms/volto-widgets-view": [
                 "addons/volto-widgets-view/src"
             ]
         },

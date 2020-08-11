@@ -10,8 +10,8 @@
   ],
   "addons": [
     "volto-slate:asDefault",
-    "volto-widgets-view",
-    "volto-slate-metadata-mentions"
+    "@eeacms/volto-widgets-view",
+    "@eeacms/volto-slate-metadata-mentions"
   ],
   "scripts": {
     "start": "razzle start",
@@ -102,7 +102,7 @@
   },
   "dependencies": {
     "@plone/volto": "github:eea/volto#7.7.0-beta.1",
-    "volto-slate": "github:eea/volto-slate#0.3.9"
+    "volto-slate": "github:eea/volto-slate#0.4.1"
   },
   "devDependencies": {
     "eslint-plugin-prettier": "3.1.3",
