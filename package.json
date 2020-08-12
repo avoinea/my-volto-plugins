@@ -101,8 +101,8 @@
     "node": "^10 || ^12"
   },
   "dependencies": {
-    "@plone/volto": "github:eea/volto#7.7.0-beta.1",
-    "volto-slate": "github:eea/volto-slate#0.4.1"
+    "@plone/volto": "github:eea/volto#7.7.0-beta.2",
+    "volto-slate": "github:eea/volto-slate#0.4.2"
   },
   "devDependencies": {
     "eslint-plugin-prettier": "3.1.3",
