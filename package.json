@@ -6,12 +6,15 @@
   "private": true,
   "workspaces": [
     "src/addons/volto-slate-metadata-mentions",
-    "src/addons/volto-widgets-view"
+    "src/addons/volto-widgets-view",
+    "src/addons/volto-tabsblock"
+    
   ],
   "addons": [
     "volto-slate:asDefault",
     "@eeacms/volto-widgets-view",
-    "@eeacms/volto-slate-metadata-mentions"
+    "@eeacms/volto-slate-metadata-mentions",
+    "volto-tabsblock"
   ],
   "scripts": {
     "start": "razzle start",

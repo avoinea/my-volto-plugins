@@ -6,6 +6,9 @@
             ],
             "@eeacms/volto-widgets-view": [
                 "addons/volto-widgets-view/src"
+            ],
+            "volto-tabsblock": [
+                "addons/volto-tabsblock/src"
             ]
         },
         "baseUrl": "src"

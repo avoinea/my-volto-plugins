@@ -10,5 +10,10 @@
          "package": "@eeacms/volto-widgets-view",
          "branch": "develop",
          "path": "src"
-     }
+     },
+     "volto-tabsblock": {
+        "url": "https://github.com/eea/volto-tabsblock.git",
+        "branch": "master",
+        "path": "src"
+    }
  }
