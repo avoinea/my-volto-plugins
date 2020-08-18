@@ -13,7 +13,7 @@
      },
      "volto-tabsblock": {
         "url": "https://github.com/eea/volto-tabsblock.git",
-        "branch": "master",
+        "branch": "develop",
         "path": "src"
     }
  }

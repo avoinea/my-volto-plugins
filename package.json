@@ -8,7 +8,7 @@
     "src/addons/volto-slate-metadata-mentions",
     "src/addons/volto-widgets-view",
     "src/addons/volto-tabsblock"
-    
+
   ],
   "addons": [
     "volto-slate:asDefault",
@@ -105,7 +105,7 @@
   },
   "dependencies": {
     "@plone/volto": "github:eea/volto#7.7.0-beta.2",
-    "volto-slate": "github:eea/volto-slate#0.4.2"
+    "volto-slate": "github:eea/volto-slate#0.4.5"
   },
   "devDependencies": {
     "eslint-plugin-prettier": "3.1.3",
