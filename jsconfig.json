@@ -9,6 +9,9 @@
             ],
             "volto-tabsblock": [
                 "addons/volto-tabsblock/src"
+            ],
+            "@eeacms/volto-metadata-block": [
+                "addons/volto-metadata-block/src"
             ]
         },
         "baseUrl": "src"

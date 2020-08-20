@@ -2,18 +2,24 @@
      "volto-slate-metadata-mentions": {
          "url": "https://github.com/eea/volto-slate-metadata-mentions.git",
          "package": "@eeacms/volto-slate-metadata-mentions",
-         "branch": "develop",
+         "branch": "master",
          "path": "src"
      },
      "volto-widgets-view": {
          "url": "https://github.com/eea/volto-widgets-view.git",
          "package": "@eeacms/volto-widgets-view",
-         "branch": "develop",
+         "branch": "master",
          "path": "src"
      },
      "volto-tabsblock": {
         "url": "https://github.com/eea/volto-tabsblock.git",
-        "branch": "develop",
+        "branch": "master",
+        "path": "src"
+    },
+     "volto-metadata-block": {
+        "url": "https://github.com/eea/volto-metadata-block.git",
+         "package": "@eeacms/volto-metadata-block",
+        "branch": "master",
         "path": "src"
     }
  }

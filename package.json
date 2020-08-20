@@ -3,22 +3,16 @@
   "description": "Volto Starter Kit",
   "license": "MIT",
   "version": "6.2.4",
-  "private": true,
-  "workspaces": [
-    "src/addons/volto-slate-metadata-mentions",
-    "src/addons/volto-widgets-view",
-    "src/addons/volto-tabsblock"
-
-  ],
   "addons": [
     "volto-slate:asDefault",
     "@eeacms/volto-widgets-view",
     "@eeacms/volto-slate-metadata-mentions",
+    "@eeacms/volto-metadata-block",
     "volto-tabsblock"
   ],
   "scripts": {
     "start": "razzle start",
-    "lint": "./src/addons/volto-widgets-view/node_modules/eslint/bin/eslint.js --max-warnings=0 'src/addons/**/*.{js,jsx}'",
+    "lint": "./node_modules/eslint/bin/eslint.js --max-warnings=0 'src/addons/**/*.{js,jsx}'",
     "postinstall": "yarn omelette && yarn patches",
     "omelette": "ln -sf node_modules/@plone/volto/ omelette",
     "patches": "/bin/bash patches/patchit.sh > /dev/null 2>&1 ||true",
@@ -104,8 +98,8 @@
     "node": "^10 || ^12"
   },
   "dependencies": {
-    "@plone/volto": "github:eea/volto#7.7.0-beta.2",
-    "volto-slate": "github:eea/volto-slate#0.4.5"
+    "@plone/volto": "github:eea/volto#7.8.2-beta.2",
+    "volto-slate": "github:eea/volto-slate#0.4.9"
   },
   "devDependencies": {
     "eslint-plugin-prettier": "3.1.3",
