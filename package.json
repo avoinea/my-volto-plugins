@@ -8,7 +8,7 @@
     "@eeacms/volto-widgets-view",
     "@eeacms/volto-slate-metadata-mentions",
     "@eeacms/volto-metadata-block",
-    "volto-tabsblock"
+    "@eeacms/volto-tabs-block"
   ],
   "scripts": {
     "start": "razzle start",

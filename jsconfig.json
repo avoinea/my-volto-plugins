@@ -7,8 +7,8 @@
             "@eeacms/volto-widgets-view": [
                 "addons/volto-widgets-view/src"
             ],
-            "volto-tabsblock": [
-                "addons/volto-tabsblock/src"
+            "@eeacms/volto-tabs-block": [
+                "addons/volto-tabs-block/src"
             ],
             "@eeacms/volto-metadata-block": [
                 "addons/volto-metadata-block/src"

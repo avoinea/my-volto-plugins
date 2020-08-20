@@ -11,9 +11,10 @@
          "branch": "master",
          "path": "src"
      },
-     "volto-tabsblock": {
-        "url": "https://github.com/eea/volto-tabsblock.git",
-        "branch": "master",
+     "volto-tabs-block": {
+        "url": "https://github.com/eea/volto-tabs-block.git",
+        "package": "@eeacms/volto-tabs-block",
+        "branch": "develop",
         "path": "src"
     },
      "volto-metadata-block": {
