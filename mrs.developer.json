@@ -22,5 +22,11 @@
          "package": "@eeacms/volto-metadata-block",
         "branch": "master",
         "path": "src"
+    },
+     "volto-block-data-figure": {
+        "url": "https://github.com/eea/volto-block-data-figure.git",
+         "package": "@eeacms/volto-block-data-figure",
+        "branch": "master",
+        "path": "src"
     }
  }

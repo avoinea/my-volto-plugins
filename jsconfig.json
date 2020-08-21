@@ -12,6 +12,9 @@
             ],
             "@eeacms/volto-metadata-block": [
                 "addons/volto-metadata-block/src"
+            ],
+            "@eeacms/volto-block-data-figure": [
+                "addons/volto-block-data-figure/src"
             ]
         },
         "baseUrl": "src"

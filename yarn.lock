@@ -1700,9 +1700,9 @@
   dependencies:
     "@types/node" ">= 8"
 
-"@plone/volto@github:eea/volto#7.8.2-beta.2":
+"@plone/volto@github:eea/volto#7.8.2-beta.3":
   version "7.8.2"
-  resolved "https://codeload.github.com/eea/volto/tar.gz/e2c09357768a16501382beb2351ab022639ea0ba"
+  resolved "https://codeload.github.com/eea/volto/tar.gz/0eb86d05cd9fc3bdc5da8023bf8c8d36f7e3e42d"
   dependencies:
     "@babel/core" "7.9.6"
     "@babel/plugin-proposal-decorators" "7.8.3"
@@ -16023,9 +16023,9 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
 
-"volto-slate@github:eea/volto-slate#0.4.9":
+"volto-slate@github:eea/volto-slate#0.5.2":
   version "0.4.1"
-  resolved "https://codeload.github.com/eea/volto-slate/tar.gz/ba73fac335322c309aeebd5dd0f3e72bd5dc7e45"
+  resolved "https://codeload.github.com/eea/volto-slate/tar.gz/a5f73d0d8bb10866dd54f680034f90b16f17bbb6"
   dependencies:
     "@types/jest" "^25.2.3"
     classnames "2.2.6"
