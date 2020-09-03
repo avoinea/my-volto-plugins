@@ -7,9 +7,11 @@
     "volto-slate:asDefault",
     "@eeacms/volto-widgets-view",
     "@eeacms/volto-slate-metadata-mentions",
+    "@eeacms/volto-slate-zotero",
     "@eeacms/volto-metadata-block",
     "@eeacms/volto-tabs-block",
-    "@eeacms/volto-block-data-figure"
+    "@eeacms/volto-block-data-figure",
+    "@eeacms/volto-widget-toggle"
   ],
   "scripts": {
     "start": "razzle start",
@@ -99,8 +101,8 @@
     "node": "^10 || ^12"
   },
   "dependencies": {
-    "@plone/volto": "github:eea/volto#7.11.1-beta.1",
-    "volto-slate": "github:eea/volto-slate#0.6.0.beta.1"
+    "@plone/volto": "github:eea/volto#7.11.3-beta.1",
+    "volto-slate": "github:eea/volto-slate#0.5.3"
   },
   "devDependencies": {
     "eslint-plugin-prettier": "3.1.3",

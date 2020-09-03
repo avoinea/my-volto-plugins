@@ -15,6 +15,12 @@
             ],
             "@eeacms/volto-block-data-figure": [
                 "addons/volto-block-data-figure/src"
+            ],
+            "@eeacms/volto-slate-zotero": [
+                "addons/volto-slate-zotero/src"
+            ],
+            "@eeacms/volto-widget-toggle": [
+                "addons/volto-widget-toggle/src"
             ]
         },
         "baseUrl": "src"

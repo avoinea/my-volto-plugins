@@ -28,5 +28,17 @@
          "package": "@eeacms/volto-block-data-figure",
         "branch": "master",
         "path": "src"
+    },
+    "volto-slate-zotero": {
+        "url": "https://github.com/eea/volto-slate-zotero.git",
+         "package": "@eeacms/volto-slate-zotero",
+        "branch": "develop",
+        "path": "src"
+    },
+    "volto-widget-toggle": {
+      "url": "https://github.com/eea/volto-widget-toggle.git",
+      "package": "@eeacms/volto-widget-toggle",
+      "branch": "master",
+      "path": "src"
     }
  }
