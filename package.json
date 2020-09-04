@@ -11,7 +11,8 @@
     "@eeacms/volto-metadata-block",
     "@eeacms/volto-tabs-block",
     "@eeacms/volto-block-data-figure",
-    "@eeacms/volto-widget-toggle"
+    "@eeacms/volto-widget-toggle",
+    "@eeacms/volto-object-widget"
   ],
   "scripts": {
     "start": "razzle start",
@@ -101,7 +102,7 @@
     "node": "^10 || ^12"
   },
   "dependencies": {
-    "@plone/volto": "github:eea/volto#7.11.3-beta.1",
+    "@plone/volto": "github:eea/volto#7.12.0-beta.1",
     "volto-slate": "github:eea/volto-slate#0.5.3"
   },
   "devDependencies": {
