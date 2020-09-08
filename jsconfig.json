@@ -16,6 +16,9 @@
             "@eeacms/volto-block-data-figure": [
                 "addons/volto-block-data-figure/src"
             ],
+            "@eeacms/volto-slate-footnote": [
+                "addons/volto-slate-footnote/src"
+            ],
             "@eeacms/volto-slate-zotero": [
                 "addons/volto-slate-zotero/src"
             ],

@@ -7,6 +7,7 @@
     "volto-slate:asDefault",
     "@eeacms/volto-widgets-view",
     "@eeacms/volto-slate-metadata-mentions",
+    "@eeacms/volto-slate-footnote",
     "@eeacms/volto-slate-zotero",
     "@eeacms/volto-metadata-block",
     "@eeacms/volto-tabs-block",
@@ -103,7 +104,7 @@
   },
   "dependencies": {
     "@plone/volto": "github:eea/volto#7.12.0-beta.1",
-    "volto-slate": "github:eea/volto-slate#0.5.3"
+    "volto-slate": "github:eea/volto-slate#0.6.0.beta.2"
   },
   "devDependencies": {
     "eslint-plugin-prettier": "3.1.3",

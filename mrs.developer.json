@@ -29,6 +29,12 @@
         "branch": "master",
         "path": "src"
     },
+    "volto-slate-footnote": {
+        "url": "https://github.com/eea/volto-slate-footnote.git",
+         "package": "@eeacms/volto-slate-footnote",
+        "branch": "master",
+        "path": "src"
+    },
     "volto-slate-zotero": {
         "url": "https://github.com/eea/volto-slate-zotero.git",
          "package": "@eeacms/volto-slate-zotero",
