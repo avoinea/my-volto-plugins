@@ -1,4 +1,10 @@
  {
+    "volto-slate": {
+        "url": "https://github.com/eea/volto-slate.git",
+        "package": "volto-slate",
+        "branch": "develop",
+        "path": "src"
+    },
      "volto-slate-metadata-mentions": {
          "url": "https://github.com/eea/volto-slate-metadata-mentions.git",
          "package": "@eeacms/volto-slate-metadata-mentions",

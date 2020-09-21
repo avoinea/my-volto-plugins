@@ -3,6 +3,10 @@
   "description": "Volto Starter Kit",
   "license": "MIT",
   "version": "6.2.4",
+  "private": true,
+  "workspaces": [
+    "src/addons/volto-slate"
+  ],
   "addons": [
     "volto-slate:asDefault",
     "@eeacms/volto-widgets-view",
@@ -103,8 +107,7 @@
     "node": "^10 || ^12"
   },
   "dependencies": {
-    "@plone/volto": "github:eea/volto#7.12.0-beta.1",
-    "volto-slate": "github:eea/volto-slate#0.6.0.beta.2"
+    "@plone/volto": "8.0.0"
   },
   "devDependencies": {
     "eslint-plugin-prettier": "3.1.3",
