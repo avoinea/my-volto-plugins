@@ -65,9 +65,9 @@
         "branch": "master",
         "path": "src"
     },
-    "volto-meta-block": {
-        "url": "https://github.com/eea/volto-meta-block.git",
-        "package": "@eeacms/volto-meta-block",
+    "volto-group-block": {
+        "url": "https://github.com/eea/volto-group-block.git",
+        "package": "@eeacms/volto-group-block",
         "branch": "master",
         "path": "src"
     }

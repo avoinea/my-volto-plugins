@@ -19,7 +19,7 @@
     "@eeacms/volto-widget-toggle",
     "@eeacms/volto-object-widget",
     "@eeacms/volto-blocks-form",
-    "@eeacms/volto-meta-block"
+    "@eeacms/volto-group-block"
   ],
   "scripts": {
     "start": "razzle start",
