@@ -30,6 +30,12 @@
             ],
             "volto-slate": [
                 "addons/volto-slate/src"
+            ],
+            "@eeacms/volto-blocks-form": [
+                "addons/volto-blocks-form/src"
+            ],
+            "@eeacms/volto-meta-block": [
+                "addons/volto-meta-block/src"
             ]
         },
         "baseUrl": "src"

@@ -17,7 +17,9 @@
     "@eeacms/volto-tabs-block",
     "@eeacms/volto-block-data-figure",
     "@eeacms/volto-widget-toggle",
-    "@eeacms/volto-object-widget"
+    "@eeacms/volto-object-widget",
+    "@eeacms/volto-blocks-form",
+    "@eeacms/volto-meta-block"
   ],
   "scripts": {
     "start": "razzle start",

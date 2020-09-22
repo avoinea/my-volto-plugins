@@ -58,5 +58,17 @@
       "package": "@eeacms/volto-object-widget",
       "branch": "master",
       "path": "src"
+    },
+    "volto-blocks-form": {
+        "url": "https://github.com/eea/volto-blocks-form.git",
+        "package": "@eeacms/volto-blocks-form",
+        "branch": "master",
+        "path": "src"
+    },
+    "volto-meta-block": {
+        "url": "https://github.com/eea/volto-meta-block.git",
+        "package": "@eeacms/volto-meta-block",
+        "branch": "master",
+        "path": "src"
     }
  }
