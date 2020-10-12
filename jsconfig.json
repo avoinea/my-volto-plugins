@@ -7,9 +7,6 @@
             "@eeacms/volto-widgets-view": [
                 "addons/volto-widgets-view/src"
             ],
-            "@eeacms/volto-tabs-block": [
-                "addons/volto-tabs-block/src"
-            ],
             "@eeacms/volto-metadata-block": [
                 "addons/volto-metadata-block/src"
             ],
@@ -36,6 +33,18 @@
             ],
             "@eeacms/volto-group-block": [
                 "addons/volto-group-block/src"
+            ],
+            "@eeacms/volto-widget-geolocation": [
+                "addons/volto-widget-geolocation/src"
+            ],
+            "@eeacms/volto-corsproxy": [
+                "addons/volto-corsproxy/src"
+            ],
+            "@eeacms/volto-columns-block": [
+                "addons/volto-columns-block/src"
+            ],
+            "@eeacms/volto-widget-temporal-coverage": [
+                "addons/volto-widget-temporal-coverage/src"
             ]
         },
         "baseUrl": "src"

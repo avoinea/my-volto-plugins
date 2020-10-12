@@ -5,7 +5,8 @@
   "version": "6.2.4",
   "private": true,
   "workspaces": [
-    "src/addons/volto-slate"
+    "src/addons/volto-slate",
+    "src/addons/volto-columns-block"
   ],
   "addons": [
     "volto-slate:asDefault",
@@ -14,12 +15,15 @@
     "@eeacms/volto-slate-footnote",
     "@eeacms/volto-slate-zotero",
     "@eeacms/volto-metadata-block",
-    "@eeacms/volto-tabs-block",
-    "@eeacms/volto-block-data-figure",
     "@eeacms/volto-widget-toggle",
+    "@eeacms/volto-widget-geolocation",
+    "@eeacms/volto-widget-temporal-coverage",
+    "@eeacms/volto-block-data-figure",
     "@eeacms/volto-object-widget",
     "@eeacms/volto-blocks-form",
-    "@eeacms/volto-group-block"
+    "@eeacms/volto-group-block",
+    "@eeacms/volto-columns-block",
+    "@eeacms/volto-corsproxy"
   ],
   "scripts": {
     "start": "razzle start",
@@ -109,7 +113,7 @@
     "node": "^10 || ^12"
   },
   "dependencies": {
-    "@plone/volto": "8.1.0"
+    "@plone/volto": "8.2.1"
   },
   "devDependencies": {
     "eslint-plugin-prettier": "3.1.3",
